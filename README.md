@@ -27,42 +27,6 @@ O objetivo é praticar o desenvolvimento de interfaces responsivas, manipulaçã
 - Assets locais para imagens (`assets/images/`).
 
 ---
-
-## Estrutura do Projeto
-atividade1_tela_aplicativo/
-  android/                  # Configurações e arquivos do build Android
-  ios/                      # Configurações e arquivos do build iOS
-  lib/                      # Código fonte principal do Flutter
-    main.dart               # Arquivo principal com toda a lógica de UI
-  assets/
-    images/                 # Imagens utilizadas no aplicativo
-      destaque.webp
-      O1.webp
-      O2.webp
-      O3.webp
-      O4.webp
-      O5.webp
-      O6.webp
-      O7.webp
-      O8.webp
-      O9.webp
-      O10.webp
-      O12.jpg
-      O13.jpg
-      O14.webp
-      O16.jpg
-  test/                     # Testes unitários e de widget
-    widget_test.dart
-  pubspec.yaml              # Dependências e assets do projeto
-  pubspec.lock              # Controle de versões das dependências
-  README.md                 # Descrição do projeto
-  .gitignore                # Arquivos/pastas ignorados pelo Git
-  .metadata                 # Metadata do Flutter
-  .packages                 # Referências de pacotes do Flutter
-  flutter_export_environment.sh # Ambiente de exportação do Flutter (gerado automaticamente)
-
----
-
 ## Como Executar
 
 1. Clone o repositório:
